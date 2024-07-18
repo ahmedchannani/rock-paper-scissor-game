@@ -33,11 +33,13 @@ body {
 .icon--paper{
   background: url(images/icon-paper.svg) no-repeat center center;
   border: 1em solid hsl(230, 89%, 62%) ;
+
   
 }
 .icon--scissors{
   background: url(images/icon-scissors.svg) no-repeat center center;
   border: 1em solid hsl(39, 89%, 49%);
+
   
 }
 .icon--rock{
@@ -55,13 +57,18 @@ background-color: #fff;
 border-radius: 50%;
 }
 .main__inner{
-
+  background-image: url(./images/bg-triangle.svg);
+  background-repeat: no-repeat;
+  background-position:  center center;
+  background-size: 10em;
 }
 .flex-1{
+  margin-top: 25px;
   display: flex;
   justify-content: space-between;
 }
 .flex-2{
+ 
   display: flex;
   justify-content: center;
 }
