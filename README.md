@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/rockpaperscissors-game-using-htmlcss-and-javascript-JgkT1nhfx1)
+- Live Site URL: [Add live site URL here](https://ahmedchannani.github.io/rock-paper-scissor-game/)
 
 ## My process
 I used the mobile first approach to build this prject, i build the main page and then added the rules page and made it works proppel. Next i started building the transition pages of the game and made sure everything functions well.
